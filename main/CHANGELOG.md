@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/Fauli1221/VKPony/compare/main-v0.1.0...main-v0.1.1) (2024-02-04)
+
+
+### ☀ Modpack Changes
+
+* **main/default-options:** added default-options to add some configs by default ([31ecb90](https://github.com/Fauli1221/VKPony/commit/31ecb9052c6d97447a73e4f190d9152910ba76a8))
+
 ## 0.1.0 (2024-02-04)
 
 
