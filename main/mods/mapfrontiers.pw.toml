@@ -1,0 +1,13 @@
+name = "MapFrontiers"
+filename = "MapFrontiers-1.20.4-2.6.0beta1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hWlsli6y/versions/DwWOOpmC/MapFrontiers-1.20.4-2.6.0beta1-fabric.jar"
+hash-format = "sha1"
+hash = "dcf0791a56b9175d3a75aabca027b05e0caf2e4f"
+
+[update]
+[update.modrinth]
+mod-id = "hWlsli6y"
+version = "DwWOOpmC"
