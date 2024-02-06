@@ -1,9 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "2da3320ba7704f932626355b0ec27c083bca9b453db93b39a524b7ab3143b7c9"
-metafile = true
+file = "CHANGELOG.md"
+hash = "b30de71da582f8a03d6c06e1dd232baa4b9023bc9985fd86686478f0ce5e1c51"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "8bc82a0ed45b8db0ea92093559315cbe98fcd024fd2bae76670548da08833347"
+
+[[files]]
+file = "config/capes.json5"
+hash = "a03fcc52bfafece66e5a0a96daa12c47741af66cbf06bab330a1b0bea32abceb"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "03214047f7e7017ae108afbe7b1784bd55ec05caf954b4072a682effae8d5840"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "e3d6e85360390e17ac2a3bb9a7640ba4f0d80261301202390cf405e8d67582a4"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "149c7065285e4e8fd8d9da955680b4b8b463ef505f2c2250a1530ffcb4f3c40c"
+
+[[files]]
+file = "config/mambience/config.json"
+hash = "48a87fa1d5c953c8eea1b77941f338570232665872dac8d2ea03d45fce50d785"
+
+[[files]]
+file = "config/minelp.json"
+hash = "1693508a8575b34a56edefd615ae29dcf03c6f217872bcbb62d63807bb27d19c"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "ce9a7f785e40494bb02d83fd608b067f9ebceda928fd705bd5aaafbfe6295bd9"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "69c67f02fca31925fcffb46be53e73760732c78ac32eec3531b24c2190d53d42"
+
+[[files]]
+file = "config/viafabricplus/settings.json"
+hash = "d5c9c77f8c70ff358b27178fd9d5f2d80e9b461a66bf576a0021ac24c879ff53"
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.core.config"
+hash = "e6fc35c51e4fe30550814a4d7f44f9ed336bbfc67564c35551c0a534a86c88b0"
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.fullmap.config"
+hash = "54e931b2abc31c367c6dfd798726a96726bae8fb28ce9a9cf59370335b4062a0"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -27,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "fa58592ed842593d450e7e2dcb56e7c8b88dff7c0fd2fe2dcd92fbcbad545718"
+hash = "404e8e47ddb3adeca01a986891de208221d39559871c74d5bb16d93527dff499"
 metafile = true
 
 [[files]]
@@ -131,6 +178,11 @@ hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "037f6b72bde7b586901f261820197efb52a369cdad3557eeaaa7a3f8e9c19799"
 metafile = true
@@ -206,11 +258,6 @@ hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
 metafile = true
 
 [[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "2b004fe059b22c7bd4badf209d657bb7f9b06633f376b0e19fcc04e4ee79fc43"
-metafile = true
-
-[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "a0626154090e5879cb832c75cbc98251e246f0142999d496ac0b084f29a2bc02"
 metafile = true
@@ -228,11 +275,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "937bd200c74fe8c5391a4c85b9e901ed35332c00b3757a82df545c14770a585a"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "10014c2c78e2f638a4d3ddf4dec2980748172ffe8f9a6ba4738acf165d83ee45"
 metafile = true
 
 [[files]]
