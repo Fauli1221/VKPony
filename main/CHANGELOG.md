@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/Fauli1221/VKPony/compare/v0.1.3...v0.1.4) (2024-02-06)
+
+
+### Miscellaneous Chores
+
+* **main:** release 0.1.4 ([2bb06a7](https://github.com/Fauli1221/VKPony/commit/2bb06a76adfaf686c2768affb69ab58067e40840))
+
 ## 0.1.3 (2024-02-05)
 
 
