@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "404e8e47ddb3adeca01a986891de208221d39559871c74d5bb16d93527dff499"
+hash = "9fb071407761cdb22323713a3f24ca27f04bb67c0ea455ee2e73778c6ecece75"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "016fb0620b53aeae64296ff2a45e610c4dabbfa4ad3334f2f255675e358883b0"
+hash = "fd134a479f8d5694b19d69c3e755d9c43013809f8ecf82b05a4e0d02472945da"
 metafile = true
 
 [[files]]
@@ -119,12 +119,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
+hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.pw.toml"
-hash = "fd8f0c42af443301730d496da8f296eb180e4241233c939816e113ca3a2b9d6a"
+hash = "f7b19a266a065ba1778d21a44e21a8308b04a5eb604cec51b575772566244e7f"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "937bd200c74fe8c5391a4c85b9e901ed35332c00b3757a82df545c14770a585a"
+hash = "42e0923e98116788bdc09a174d943d81e28e0c2b3c7221eaacb839a9a9359aed"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "53ef2669ace27d6233cb04dee1925aa6f3c6c4e313cc762da4edc1b30c7a856b"
+hash = "7dfbf79bf874dcfdb27e4bbc92da56cdab2ffdbee459dfd2eee5a57dacb59ed2"
 metafile = true
 
 [[files]]
