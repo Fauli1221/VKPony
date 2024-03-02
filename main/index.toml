@@ -2,7 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b30de71da582f8a03d6c06e1dd232baa4b9023bc9985fd86686478f0ce5e1c51"
+hash = "b59e15d8ab7f577584c0a26dbb726b228a428f4d588918642f91c09c8a0ff227"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "547ab8638d23a570798766eda715653914d4fd34fd60317dbfeb62a3c51ba56f"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "4d945a5abd8801037b2f13352459054152d0a6b9cde735619103aa6a41a72f45"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "707e9af170cd9c9282d25bfb5f1a337039348636183564cfa1a86ebde52f48df"
 
 [[files]]
 file = "config/betterf3.json"
