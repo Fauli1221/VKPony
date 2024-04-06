@@ -1,7 +1,13 @@
 name = "VulkanMod"
-filename = "VulkanMod_1.20.4-0.3.9-fix.jar"
+filename = "VulkanMod_1.20.4-0.4.0.jar"
+side = "client"
 
 [download]
-url = "https://github.com/Fauli1221/VulkanMod/releases/download/0.3.9-fix/VulkanMod_1.20.4-0.3.9-fix.jar"
-hash-format = "sha256"
-hash = "704fb4c8868e9e50364073bd8c5db20cc48844cb2ac1c568295ed0e098d62dde"
+url = "https://cdn.modrinth.com/data/JYQhtZtO/versions/ppSbB1wz/VulkanMod_1.20.4-0.4.0.jar"
+hash-format = "sha1"
+hash = "6d2c605ffc8a57b25eacffe59eb2eb14e17194cb"
+
+[update]
+[update.modrinth]
+mod-id = "JYQhtZtO"
+version = "ppSbB1wz"
