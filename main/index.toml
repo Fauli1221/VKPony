@@ -5,68 +5,68 @@ file = "CHANGELOG.md"
 hash = "b59e15d8ab7f577584c0a26dbb726b228a428f4d588918642f91c09c8a0ff227"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "547ab8638d23a570798766eda715653914d4fd34fd60317dbfeb62a3c51ba56f"
 
 [[files]]
-file = "config/NoChatReports/NCR-Common.json"
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "4d945a5abd8801037b2f13352459054152d0a6b9cde735619103aa6a41a72f45"
 
 [[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "707e9af170cd9c9282d25bfb5f1a337039348636183564cfa1a86ebde52f48df"
 
 [[files]]
-file = "config/betterf3.json"
+file = "config/yosbr/config/betterf3.json"
 hash = "8bc82a0ed45b8db0ea92093559315cbe98fcd024fd2bae76670548da08833347"
 
 [[files]]
-file = "config/capes.json5"
+file = "config/yosbr/config/capes.json5"
 hash = "a03fcc52bfafece66e5a0a96daa12c47741af66cbf06bab330a1b0bea32abceb"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "03214047f7e7017ae108afbe7b1784bd55ec05caf954b4072a682effae8d5840"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "e3d6e85360390e17ac2a3bb9a7640ba4f0d80261301202390cf405e8d67582a4"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "149c7065285e4e8fd8d9da955680b4b8b463ef505f2c2250a1530ffcb4f3c40c"
 
 [[files]]
-file = "config/mambience/config.json"
+file = "config/yosbr/config/mambience/config.json"
 hash = "48a87fa1d5c953c8eea1b77941f338570232665872dac8d2ea03d45fce50d785"
 
 [[files]]
-file = "config/minelp.json"
+file = "config/yosbr/config/minelp.json"
 hash = "1693508a8575b34a56edefd615ae29dcf03c6f217872bcbb62d63807bb27d19c"
 
 [[files]]
-file = "config/modmenu.json"
+file = "config/yosbr/config/modmenu.json"
 hash = "ce9a7f785e40494bb02d83fd608b067f9ebceda928fd705bd5aaafbfe6295bd9"
 
 [[files]]
-file = "config/presencefootsteps/userconfig.json"
+file = "config/yosbr/config/presencefootsteps/userconfig.json"
 hash = "69c67f02fca31925fcffb46be53e73760732c78ac32eec3531b24c2190d53d42"
 
 [[files]]
-file = "config/viafabricplus/settings.json"
+file = "config/yosbr/config/viafabricplus/settings.json"
 hash = "d5c9c77f8c70ff358b27178fd9d5f2d80e9b461a66bf576a0021ac24c879ff53"
 
 [[files]]
-file = "journeymap/config/5.9/journeymap.core.config"
+file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
 hash = "e6fc35c51e4fe30550814a4d7f44f9ed336bbfc67564c35551c0a534a86c88b0"
 
 [[files]]
-file = "journeymap/config/5.9/journeymap.fullmap.config"
+file = "config/yosbr/journeymap/config/5.9/journeymap.fullmap.config"
 hash = "54e931b2abc31c367c6dfd798726a96726bae8fb28ce9a9cf59370335b4062a0"
 
 [[files]]
+file = "config/yosbr/keybindings.txt"
+hash = "03214047f7e7017ae108afbe7b1784bd55ec05caf954b4072a682effae8d5840"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "e3d6e85360390e17ac2a3bb9a7640ba4f0d80261301202390cf405e8d67582a4"
+
+[[files]]
 file = "mods/balm.pw.toml"
-hash = "fab27ac9755c954e411294e947ded866f78462ab905e360964e419a6f270340f"
+hash = "274974efd5518cc3087bab45b80fa3eabc7e248ef9a8be9587f44bcd3222bc63"
 metafile = true
 
 [[files]]
@@ -101,12 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4b76308c338df7554b2849b2a4c1b951ecc9a208f19f9b9b8c792034259c152b"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "08a04a7e3092dc5f063ecc3a6ac4fed68dcaaad6c2843ad2ccddb57d9c44ef48"
+hash = "590207f59d608672d2e7f9aa8966a09ab71403e75d76da314e7cd5dac885743d"
 metafile = true
 
 [[files]]
@@ -131,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
 
 [[files]]
@@ -246,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
+hash = "8ab36ddea41aaea5969502df196cc821f52e679c60ffba9be030018d6de71885"
 metafile = true
 
 [[files]]
@@ -256,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+hash = "aeb80ffcd7d25d95429f93b54e31d620f85e75a08769126d77031bd8fb262cbf"
 metafile = true
 
 [[files]]
@@ -266,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
+hash = "0e1d4949eea0abd1058d9687385615de9644d4eb20c5b0900222d182beae12e1"
 metafile = true
 
 [[files]]
@@ -286,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "42e0923e98116788bdc09a174d943d81e28e0c2b3c7221eaacb839a9a9359aed"
+hash = "c16e5515c9578fb21ede824ddc04c155687e64f905501648120b89f7669d57d1"
 metafile = true
 
 [[files]]
@@ -332,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "0e64714c116db266b1c35b0fea980d0ad75ddee7639d13f89d5cedf6c7e336e7"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
