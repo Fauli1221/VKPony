@@ -1,13 +1,13 @@
 name = "VKPony"
 author = "Fauli1221"
-version = "0.1.4"
+version = "0.1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c0b6f01c60767ffd3ae85aa68b07c1136a3f9dbbac14b62d7e6431c3586d263d"
+hash = "a8a01a97806b6d04354f3c513b00f3283a12af9585f2ad2711dda0a1dbb406a2"
 
 [versions]
-fabric = "0.15.9"
-minecraft = "1.20.4"
+fabric = "0.16.0"
+minecraft = "1.21"

@@ -1,13 +1,13 @@
 name = "VulkanMod"
-filename = "VulkanMod_1.20.4-0.4.0.jar"
+filename = "VulkanMod_1.21-0.4.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JYQhtZtO/versions/ppSbB1wz/VulkanMod_1.20.4-0.4.0.jar"
+url = "https://cdn.modrinth.com/data/JYQhtZtO/versions/7FLfOsw3/VulkanMod_1.21-0.4.3.jar"
 hash-format = "sha1"
-hash = "6d2c605ffc8a57b25eacffe59eb2eb14e17194cb"
+hash = "1c25e25a1990716eb65f038e013e2705f3f632a3"
 
 [update]
 [update.modrinth]
 mod-id = "JYQhtZtO"
-version = "ppSbB1wz"
+version = "7FLfOsw3"

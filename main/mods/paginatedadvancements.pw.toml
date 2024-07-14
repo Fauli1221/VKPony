@@ -3,11 +3,11 @@ filename = "paginatedadvancements-2.4.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/pJogNFap/versions/SSrN6xCf/paginatedadvancements-2.4.2.jar"
+url = "https://cdn.modrinth.com/data/pJogNFap/versions/PICtfFjp/paginatedadvancements-2.4.2.jar"
 hash-format = "sha1"
-hash = "93d5b01496f920f58631e10670260bec5388ce30"
+hash = "cc1dd34735e41a827fbcb7bba0c3d424b60a0d21"
 
 [update]
 [update.modrinth]
 mod-id = "pJogNFap"
-version = "SSrN6xCf"
+version = "PICtfFjp"
